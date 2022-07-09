@@ -21,7 +21,14 @@ Currently, I'm a student at [INSTITUIÇÃO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TEC
 </div>
 
 
-### Languages
+### Learning and studing 
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="prody-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="prody-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+ 
+  <img align="right" alt="prody-pic" height="150" style="border-radius:50px;"       src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+</div>
 
 
 ### Socials
