@@ -28,8 +28,3 @@ Currently, I'm a student at [INSTITUIÇÃO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TEC
   <img align="center" alt="prody-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   </div>
 
-
-### Socials
-
-
-### Badges
